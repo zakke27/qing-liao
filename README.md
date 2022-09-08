@@ -18,3 +18,6 @@
 - [x] 浏览文章评论
 - [x] 用户关注/取消关注博主
 
+## screenshot
+
+![screenshot](./screenshot/pic.png)
